@@ -1,4 +1,5 @@
 # prefix,country_code,region_code,city,postal
+172.20.209.64/26,CN,,China Mainland,,
 172.20.209.64/29,,,Asia Pacific,,
 172.20.209.64/31,HK,,Hong Kong,,
 172.20.209.66/31,JP,JP-13,Tokyo,,
@@ -12,15 +13,19 @@
 172.20.209.88/29,,,Europe,,
 172.20.209.88/31,DE,DE-HE,Frankfurt,,
 172.20.209.90/31,DE,DE-HE,Frankfurt,,
-172.20.209.96/28,CN,,China Mainland
-172.20.209.96/31,CN,CN-GD,Guangzhou
-172.20.209.98/31,CN,CN-SC,Chengdu
-172.20.209.100/31,CN,CN-NM,Hohhot
-172.20.209.102/31,CN,CN-HB,Shiyan
-10.127.217.0/28,CN,,China Mainland
+172.20.209.96/28,CN,,China Mainland,,
+172.20.209.96/31,CN,CN-GD,Guangzhou,,
+172.20.209.98/31,CN,CN-SC,Chengdu,,
+172.20.209.100/31,CN,CN-NM,Hohhot,,
+172.20.209.102/31,CN,CN-HB,Shiyan,,
+10.127.217.0/24,CN,,China Mainland,,
+10.127.217.0/28,CN,,China Mainland,,
+fdfa:7906:8262::/48,CN,,China Mainland,,
+fdfa:7906:8262:c000::/51,CN,,China Mainland,,
 fdfa:7906:8262:cb00::/56,DE,DE-HE,Frankfurt,,
 fdfa:7906:8262:cf00::/56,CN,CN-GD,Guangzhou,,
 fdfa:7906:8262:c500::/64,CN,CN-GD,Guangzhou,,
 fdfa:7906:8262:ffff::214/128,DE,DE-HE,Frankfurt,,
 fdfa:7906:8262:ffff::215/128,ID,ID-JK,Jakarta,,
+fd10:127:217::/48,CN,,China Mainland,,
 ,,,,,
